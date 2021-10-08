@@ -7,3 +7,4 @@ Most of the code taken from: https://www.tensorflow.org/text/tutorials/text_gene
 1. Download main.py and chat_model
 2. Run `pip install tensorflow`
 3. If there are any errors, visit https://www.tensorflow.org/install for help.
+4. Run `main.py`

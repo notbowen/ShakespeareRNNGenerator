@@ -1,5 +1,6 @@
 # Shakespeare RNN Generator
 Generates Shakespeare-like text using a RNN network
+
 Most of the code taken from: https://www.tensorflow.org/text/tutorials/text_generation
 
 ## How to use
